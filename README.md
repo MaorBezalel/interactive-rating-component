@@ -45,7 +45,7 @@ The project consists of two main sections: the "Rating" state and the "Thank You
 In the "Rating" state, users can click on the rating points to select their desired rating, and the chosen rating is visually highlighted.<br>
 After clicking the "Submit" button, the component transitions to the "Thank You" state, displaying the selected rating and expressing gratitude to the user.
 
-**The project is developed using semantic HTML5 for the structure, CSS for styling and layout, and JavaScript for interactivity.**
+**The project was developed using semantic HTML5 for the structure, CSS for styling and layout, and JavaScript for interactivity.**
 
 ### Key Features
 
