@@ -13,8 +13,8 @@ Through this challenge, I aimed to build a visually engaging and user-friendly r
 - [Process](#process)
     - [Description](#description)
     - [Key Features](#key-features)
-    - [License](#license)
 - [Special Thanks To](#special-thanks-to)
+- [License](#license)
 
 ## Overview
 
@@ -54,13 +54,14 @@ After clicking the "Submit" button, the component transitions to the "Thank You"
 - **Responsive Design**: The rating component is designed to adapt to different screen sizes, making it mobile-friendly.
 - **Thank You Message**: After submitting a rating, users are presented with a "Thank You" message that displays their chosen rating.
 
-### License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Special Thanks To
 
 - **Frontend Mentor**: For providing the challenge, alongside the necessary images, and style guide.<br>
 You can find their website [here](https://www.frontendmentor.io/). 
 - **Ali Shirani**: For creating a detailed video tutorial on the project, which was a valuable resource and greatly assisted me with the CSS part of the implementation.<br>
 His helpful video can be found [here](https://www.youtube.com/watch?v=Nw4y8cAU70w&ab_channel=CodewithAli).
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
