@@ -1,6 +1,6 @@
 # Frontend Mentor - Interactive Rating Component Solution
 
-This project, the "Interactive Rating Component," was created as a frontend practice exercise to enhance my skills in HTML, CSS, and JavaScript.<br>
+This project, the "Interactive Rating Component", was created as a frontend practice exercise to enhance my skills in HTML, CSS, and JavaScript.<br>
 The idea behind this project came from a challenge provided by Frontend Mentor, a platform that offers design challenges to improve frontend development skills.<br>
 Through this challenge, I aimed to build a visually engaging and user-friendly rating component that allows users to provide feedback on a service.
 
