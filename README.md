@@ -63,5 +63,7 @@ His helpful video can be found [here](https://www.youtube.com/watch?v=Nw4y8cAU70
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This solution is based on Frontend Mentor a challenge and are subject to the terms and conditions of the Frontend Mentor License.<br>
+Please refer to the license and guidelines on the Frontend Mentor website for more information.<br>
 
+[Frontend Mentor License](https://www.frontendmentor.io/license)
